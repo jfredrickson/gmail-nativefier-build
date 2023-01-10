@@ -3,6 +3,6 @@
 Version=1.0
 Terminal=false
 Type=Application
-Name=Gmail
-Exec=/opt/Gmail-linux-x64/Gmail
+Name=Gmail Desktop
+Exec=/opt/Gmail-linux-x64/Gmail --ozone-platform=wayland
 Icon=gmail
